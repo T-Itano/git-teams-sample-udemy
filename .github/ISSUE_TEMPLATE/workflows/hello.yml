@@ -1,4 +1,4 @@
-name: Hello, World # ワークフロー名 
+name: Hello, World # ワークフロー名
 on: push # イベント
 
 jobs: # ジョブ
